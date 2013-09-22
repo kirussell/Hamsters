@@ -1,3 +1,6 @@
 [submodule "AndEngine"]
 	path = AndEngine
 	url = git@github.com:kirussell/AndEngine.git
+[submodule "AndEngineSVGTextureRegionExtension"]
+	path = AndEngineSVGTextureRegionExtension
+	url = git@github.com:nicolasgramlich/AndEngineSVGTextureRegionExtension.git
